@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
   .img-log {
     border-radius:10%;
   }
