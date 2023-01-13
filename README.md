@@ -9,4 +9,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SenikovMikhail&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SenikovMikhail&style=flat-square&color=blue" align="center" alt=""/>
