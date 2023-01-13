@@ -13,4 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=SenikovMikhail&style=flat-square&color=blue"  alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+---
+
+### :man_technologist: About Me :
