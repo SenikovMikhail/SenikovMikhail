@@ -8,3 +8,5 @@
    <img src="https://img.shields.io/badge/LeetCode-gray?logo=LeetCode&logoColor=orange&style=for-the-badge"  alt="LeetCode Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=SenikovMikhail&style=flat-square&color=blue" alt=""/>
