@@ -26,7 +26,7 @@ I am a 4th year student of majoring radio engineering.
 
 
 
-How to contact with me: Just send email to senikov_mikhail@mail.ru 
+<br>How to contact with me: Just send email to senikov_mikhail@mail.ru 
 
 My education:  Moscow State Technical University of Radio Engineering, Electronics and Automation (MGTU MIREA).
 
