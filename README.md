@@ -39,8 +39,8 @@ My education:  Moscow State Technical University of Radio Engineering, Electroni
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/OOP-orange" height="35"  alt="OOP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;  
-     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" title="Cisco" **alt="Cisco" width="40" height="40"/>
-     <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" title="Xilinx" **alt="Xilinx" width="70" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" title="Cisco" **alt="Cisco" height="60"/>
+     <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" title="Xilinx" **alt="Xilinx"  height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
