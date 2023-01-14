@@ -20,7 +20,7 @@
 I am a 4th year student of majoring radio engineering.
 
 <div id="counter" >
-   <img src="https://cdn-icons-png.flaticon.com/512/8593/8593523.png" width="17"/> I completed courses in C++ and information security.<br>
+   <img src="https://cdn-icons-png.flaticon.com/512/8593/8593523.png" width="17"/> I completed courses on Cisco, C++, information security and operating system architecture.<br>
   <img src="https://cdn-icons-png.flaticon.com/512/6266/6266170.png" width="17"/> In free time, I slove problem on Leetcode and read tech articles
 </div>
 
